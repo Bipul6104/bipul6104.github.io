@@ -124,6 +124,7 @@
 	width: 481px;
 	text-align: center;
 	transition: 1s;
+        overflow:hidden; 
 }
 .header-area ul li {
 	margin-top: 0px;
