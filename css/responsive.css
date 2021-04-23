@@ -66,11 +66,11 @@
 .go {
 	position: absolute;
 	top: 10px;
-	left: 90%;
+	left: 80%;
 	display: block;
 }
 .go i {
-	font-size: 24px;
+	font-size: 20px;
 	color: white;
 }
 .header-area.off {
@@ -300,7 +300,7 @@
 	display: unset;
 }
 .header-area.off {
-	transform: translate(100%,0%);
+	display:none;
 }
 .go {
 	position: absolute;
