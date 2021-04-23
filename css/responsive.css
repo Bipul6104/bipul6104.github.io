@@ -124,6 +124,7 @@
 	width: 390px;
 	text-align: center;
 	transition: 1s;
+   	width:100%:
 }
 .header-area ul li {
 	padding: 46px 4px !important;
@@ -150,14 +151,14 @@
 }
 .all-service {
 	height: 250px;
-	width: 88%;
+	width: 100%;
 }
 .headings p {
 	height: 158px;
 	text-align: center;
 }
 .parent-container img {
-	width: 410px !important;
+	width: 100% !important;
 	height: 258px !important;
 }
 #about {
@@ -180,7 +181,7 @@
 	top: -64%;
 }
 .contact-area {
-	width: 3600px;
+	width: 100%;
 }
 .icon-area i {
 	font-size: 46px;
@@ -239,6 +240,7 @@
 .header-area {
 	top: 16px;
 	left: 18px;
+	width:100%;
 }	
 .header-area ul {
 	display: grid;
@@ -268,6 +270,7 @@
 }
 .row-cont-r {
 	height: 640px;
+	width:100%;
 }
 .row-cont-r::after {
 	height: 640px;
@@ -296,6 +299,7 @@
 	width: 323px;
 	text-align: center;
 	transition: 1s;
+	width:100%;
 }
 .header-area ul li {
 	padding: 9px 20px;
@@ -335,7 +339,7 @@
 	width: 84%;
 }
 .all-service {
-	width: 84%;
+	width: 100%;
 	margin: 20px;
 	text-align: center;
 }
@@ -343,7 +347,7 @@ img.mfp-img {
 	margin: 0 auto 848px auto;
 }
 .parent-container img {
-	width: 322px !important;
+	width: 100%; !important;
 	height: 198px !important;
 }
 .about-img img {
