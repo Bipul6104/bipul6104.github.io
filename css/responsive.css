@@ -202,7 +202,10 @@
 #review {
 	height: 1747px;
 }
-
+.all-info {
+	display: flex;
+	padding: 50px 62px;
+}
 
 
 
