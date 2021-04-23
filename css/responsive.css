@@ -131,7 +131,7 @@
 	padding: 20px 0px;
 }
 .header-area.off {
-	transform: translate(100%,0%);
+	display:none;
 }
 .text1 a input {
 	padding: 5px 20px;
