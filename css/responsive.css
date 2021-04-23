@@ -114,14 +114,14 @@
 
 
 
-@media all and (max-width: 481px){
+@media all and (max-width: 410px){
 .header-area {
 	top: 0px;
 	left: 0px;
 	height: 100px;
 	background: #1c1919e6;
 	z-index: 11;
-	width: 481px;
+	width: 390px;
 	text-align: center;
 	transition: 1s;
 }
@@ -157,7 +157,7 @@
 	text-align: center;
 }
 .parent-container img {
-	width: 481px !important;
+	width: 410px !important;
 	height: 258px !important;
 }
 #about {
@@ -180,7 +180,7 @@
 	top: -64%;
 }
 .contact-area {
-	width: 440px;
+	width: 3600px;
 }
 .icon-area i {
 	font-size: 46px;
